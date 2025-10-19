@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu portfólio! Aqui compartilho minha trajetória, projetos e a
 🎓 Estudante de Ciência da Computação - Universidade Anhembi Morumbi (Conclusão em 2025)  
 🧪 Analista de QA com experiência em testes manuais, automatizados e de performance  
 💡 Forte atuação em ambientes ágeis (Scrum e Kanban), com foco na melhoria contínua  
-🌐 Experiência em sistemas web, e-commerce e Telecom
+🌐 Experiência em sistemas web, mobile, e-commerce, Telecom e Financeiro
 
 
 ## 🧰 Tecnologias e Ferramentas
@@ -28,3 +28,4 @@ Bem-vindo(a) ao meu portfólio! Aqui compartilho minha trajetória, projetos e a
 
 
 🧪 *Sempre em busca de qualidade!*
+
