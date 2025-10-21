@@ -16,7 +16,6 @@ Bem-vindo(a) ao meu portfólio! Aqui compartilho minha trajetória, projetos e a
 - **Testes de Performance:** K6  
 - **Testes Automatizados:** Cypress e DataDog
 - **Gestão de Tarefas:** Jira  
-- **Versionamento:** Git & GitHub  
 - **Metodologias Ágeis:** Scrum e Kanban
 
 
@@ -28,4 +27,5 @@ Bem-vindo(a) ao meu portfólio! Aqui compartilho minha trajetória, projetos e a
 
 
 🧪 *Sempre em busca de qualidade!*
+
 
